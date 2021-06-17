@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MasterYoda-pb
 - 👀 I’m interested in Dataaaaaaaaaaaaaaa
 - 🌱 I’m currently learning ---No Trying to learn cloud data handling techniques
-- 💞️ I’m looking to collaborate on ....Anyone who can teahc me Azure Data Factory  
+- 💞️ I’m looking to collaborate on ....Anyone who can teach me Azure Data Factory  
 - 📫 How to reach me ...pls dont i dont think i can contribute anything.
 
 <!---
